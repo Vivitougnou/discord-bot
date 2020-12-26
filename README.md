@@ -3,7 +3,7 @@
 [![Website](https://media.discordapp.net/attachments/440052258172960768/792510905371459624/unknown.png)](https://discord.bio/p/vivitougnou)
 [![Discord Server](https://media.discordapp.net/attachments/440052258172960768/792511613366042644/unknown.png)](https://discord.gg/s9tHHEY9vr)
 
-## Je vous présente mon Bot Discord!
+## Informations sur moi
 
 - 🔭 Je me lance dans le développement sur Github !
 - 🌱 J'apprends tout actuellement 🤣
