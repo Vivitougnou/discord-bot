@@ -12,17 +12,16 @@
 - ⚡ Fait amusant: j'aime beaucoup jouer avec mes amis au jeux FPS
 
 
-### 📺 Latest YouTube Videos
+### 📺 Vidéo YouTube Récentes 
 
 <!-- YOUTUBE:START -->
-- [This is ALL you NEED to Become a Web Developer Today (2021)](https://www.youtube.com/watch?v=LTwFX-hitQo)
-- [Top VS Code Updates | Last 2020 Update | v1.52 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=dgOu1Y9xl5k)
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/watch?v=3tG1jUQbuSI)
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/watch?v=NhWCEdja9W4)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/watch?v=7k7ETzqOxn8)
+- [BloodsGang (AlyniaRP #V2)](https://youtu.be/IKcu8-3Xf1c)
+- [Mon Record de Kills sur Valorant ! (Gameplay Jett)](https://youtu.be/Yl9OUGBSYYU)
+- [Fortnite Montage - "Ooo La La"](https://youtu.be/pLW7t_ehN1A)
+- [Vivitougnou - FiveM Totiland](https://youtu.be/1_gtETBeQCw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [Et encore plus de vidéos...](https://youtube.com/VivitougnouGTA)
 
 [website]: https://discord.bio/p/vivitougnou
 
