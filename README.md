@@ -11,10 +11,6 @@
 - 🥅 Objectifs 2021: contribuer davantage aux projets Open Sources
 - ⚡ Fait amusant: j'aime beaucoup jouer avec mes amis au jeux FPS
 
-### Spotify Playing 🎧
-
-[<img src="https://discord-bot-indol.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/a3726364fa9c4f1aa0489fbe898cb6d5)
-
 
 ### 📺 Latest YouTube Videos
 
