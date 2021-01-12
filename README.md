@@ -14,6 +14,7 @@
 ### 📺 Vidéo YouTube Récentes 
 
 <!-- YOUTUBE:START -->
+- [COMMENT HACK UN COMPTE DISCORD](https://youtu.be/4lLtYloPHRg)
 - [BloodsGang (AlyniaRP #V2)](https://youtu.be/IKcu8-3Xf1c)
 - [Mon Record de Kills sur Valorant ! (Gameplay Jett)](https://youtu.be/Yl9OUGBSYYU)
 - [Fortnite Montage - "Ooo La La"](https://youtu.be/pLW7t_ehN1A)
